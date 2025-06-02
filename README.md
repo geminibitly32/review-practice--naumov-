@@ -4,7 +4,7 @@
 Здесь представлены базовые файлы проекта и отчет по анализу открытого репозитория.
 
 ## Содержание
-- `src/hello_world.py` — простой скрипт вывода "Hello, World!"
+- [**`src/hello_world.py`**](./https://github.com/helsidee/review-practice--naumov-/blob/main/src/hello_world.py) — простой скрипт вывода "Hello, World!"
 - `.gitignore` — игнорирование временных файлов
 - `report.md` — отчет по анализу чужого репозитория
 - `REVIEW_PLANNING.md` - ревьюирование программных модулей
