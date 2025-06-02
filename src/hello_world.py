@@ -1,4 +1,4 @@
-# Hello World Script 
+# Hello World Script
 
 def greet(name):
     return f"Hello, {name}!"
