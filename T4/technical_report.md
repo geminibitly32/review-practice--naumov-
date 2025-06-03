@@ -1,4 +1,5 @@
 Этап 2: Создание 
+
 Технический отчет (report_tech/report.md):
 
 # Сравнительный анализ офисных пакетов: LibreOffice vs Google Docs
