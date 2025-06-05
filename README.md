@@ -25,6 +25,7 @@
   - `T11/report_test11.doc`- отчет задания
       - `T11/test_codeMistake.py` - код с ошибками
       - `T11/test_codeUpdate.py` - исправленный код
+     - `T12/report_test.md` - ответ на вопросы задания 12
 
 ## Этапы выполнения
 
